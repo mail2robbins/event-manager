@@ -28,8 +28,9 @@ export default async function Home({ searchParams }: SearchParamProps) {
               Host, Connect, Celebrate: Your Events, Our Platform!
             </h1>
             <p className="p-regular-20 md:p-regular-24">
-              Book and learn helpful tips from 3,168+ mentors in world-class
-              companies with our global community.
+              Your all-in-one solution for seamless event planning and
+              execution. Stay organized, collaborate seamlessly, and elevate
+              your event planning game with our user-friendly Event Manager App.
             </p>
             <Button size="lg" asChild className="button w-full sm:w-fit">
               <Link href="#events">Explore Now</Link>
@@ -51,7 +52,7 @@ export default async function Home({ searchParams }: SearchParamProps) {
         className="wrapper my-8 flex flex-col gap-8 md:gap-12"
       >
         <h2 className="h2-bold">
-          Trust by <br /> Thousands of Events
+          Trusted by <br /> Thousands of Events
         </h2>
 
         <div className="flex w-full flex-col gap-5 md:flex-row">
